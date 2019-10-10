@@ -1,2 +1,4 @@
-Error:
-  * No me está reconociendo los archivos manifest. Toma este archivo, junto con otros, como rutas externas, más no internas.
+Corrección:
+  * Corrección en el error con el manifest.
+  * Para solucionarlo, simplemente corrí el LightHouse y todo se arregló. No se porque se solucionó.
+  * TODO: buscar el porque de esa solucion.
