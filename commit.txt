@@ -1,1 +1,2 @@
-Cambios presentes en cuanto a agregación de pestañas e informacion
+Error:
+  * No me está reconociendo los archivos manifest. Toma este archivo, junto con otros, como rutas externas, más no internas.
