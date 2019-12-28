@@ -1,4 +1,4 @@
-Corrección:
-  * Corrección en el error con el manifest.
-  * Para solucionarlo, simplemente corrí el LightHouse y todo se arregló. No se porque se solucionó.
-  * TODO: buscar el porque de esa solucion.
+Cambios:
+  * "Nueva" interfaz.
+  * En curso ya no se puede descargar el pdf, ahora hay juegos.
+  * El navbar se ve mejor
