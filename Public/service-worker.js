@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b8ee2ed8e7d8aa323f8b720878444807.js"
+  "/precache-manifest.f1cb5a56292789c26e0aa6e8ac6e4d13.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kribi"});
