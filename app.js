@@ -1,7 +1,9 @@
-var express = require('express');
-var path = require('path');
+const express = require('express');
+const path = require('path');
+const history = require('connect-history-api-fallback')
 
-var app = express();
+const app = express();
+app.use(history())
 
 app.use(express.static(path.join(__dirname, 'Public')));
 

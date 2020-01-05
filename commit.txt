@@ -1,4 +1,3 @@
 Cambios:
-  * "Nueva" interfaz.
-  * En curso ya no se puede descargar el pdf, ahora hay juegos.
-  * El navbar se ve mejor
+  - Instalado connect-history-api-fallback.
+  - El plugin instalado ahora permite ingresar a las rutas de la páginas sin obtener 404.
