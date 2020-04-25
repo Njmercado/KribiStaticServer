@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/css/chunk-a129ddb8.d21b6671.css"
   },
   {
-    "revision": "592047cf876835e39f7b",
-    "url": "/js/app.771069c8.js"
+    "revision": "552af8af43473647cf99",
+    "url": "/js/app.2c643525.js"
   },
   {
     "revision": "af4c5a40c86eb59c0cb8",
@@ -44,12 +44,8 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.5e0fed4a.js"
   },
   {
-    "revision": "dea4b099a533c28a640c4d81722fc1ad",
+    "revision": "d97a58ed0c4a4745cbd2d8956cc303a1",
     "url": "/index.html"
-  },
-  {
-    "revision": "4085e3a9b079418234512a17eaf39265",
-    "url": "/img/Images/wordsGame.png"
   },
   {
     "revision": "d362be340a8a03ce1970c98a6ba14ec1",
@@ -60,7 +56,11 @@ self.__precacheManifest = [
     "url": "/js/chunk-2d0dee7b.960da10c.js"
   },
   {
-    "revision": "592047cf876835e39f7b",
+    "revision": "4085e3a9b079418234512a17eaf39265",
+    "url": "/img/Images/wordsGame.png"
+  },
+  {
+    "revision": "552af8af43473647cf99",
     "url": "/css/app.9cc7790f.css"
   }
 ];
