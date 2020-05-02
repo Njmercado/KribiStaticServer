@@ -1,3 +1,3 @@
 Cambios:
-  - Instalado connect-history-api-fallback.
-  - El plugin instalado ahora permite ingresar a las rutas de la páginas sin obtener 404.
+  - Aplicado caching de 1 semana para evitar sobrecargar el servidor.
+  - desactivada la etag para traer todos los cambios nuevos hechos.
