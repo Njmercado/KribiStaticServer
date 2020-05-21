@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/img/4.71beba91.png"
   },
   {
-    "revision": "8c3f40fdafe524eba869",
-    "url": "/css/app.15bc06be.css"
+    "revision": "f1bf0b50b03fda379920",
+    "url": "/css/app.9914df62.css"
   },
   {
     "revision": "a04cc4c2839e82f01783",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/js/about.c08a961e.js"
   },
   {
-    "revision": "8c3f40fdafe524eba869",
-    "url": "/js/app.bc1b3fd5.js"
+    "revision": "f1bf0b50b03fda379920",
+    "url": "/js/app.0e7750fa.js"
   },
   {
     "revision": "d470b0d5b454f02400ab66520a660a59",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/img/fondoLetras.629dd1d7.png"
   },
   {
-    "revision": "b98b25ad0891c90b931b4fb0f4379b7b",
+    "revision": "339e267d2e256276aa8b62b0bd2a3a4e",
     "url": "/index.html"
   },
   {
@@ -98,6 +98,10 @@ self.__precacheManifest = [
   {
     "revision": "fe08de586fca9ce8caf08eee5a6900f7",
     "url": "/markdown/una-ministra-cientifica.js"
+  },
+  {
+    "revision": "d9708536b355f64fea11fdbca4e497de",
+    "url": "/markdown/la-champeta:-nuestro-reencuentro-con-áfrica.js"
   },
   {
     "revision": "5c1cdfd8a9abb34277cc",
